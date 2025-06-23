@@ -1,3 +1,2 @@
-// Thêm kiểm tra nếu password null hoặc trống
-if (string.IsNullOrEmpty(password)) return false;
-//abcd
+// Kiểm tra username rỗng
+if (string.IsNullOrEmpty(username)) return false;
