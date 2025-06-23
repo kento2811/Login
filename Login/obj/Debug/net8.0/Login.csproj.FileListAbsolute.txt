@@ -1,0 +1,4 @@
+C:\Users\kudok\source\repos\Login\Login\obj\Debug\net8.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudok\source\repos\Login\Login\obj\Debug\net8.0\Login.AssemblyInfoInputs.cache
+C:\Users\kudok\source\repos\Login\Login\obj\Debug\net8.0\Login.AssemblyInfo.cs
+C:\Users\kudok\source\repos\Login\Login\obj\Debug\net8.0\Login.csproj.CoreCompileInputs.cache
